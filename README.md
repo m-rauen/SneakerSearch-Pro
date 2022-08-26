@@ -12,7 +12,7 @@ This project was the final test from the lecture "Introduction to OOP", ministre
 
 ---
 
-The project was developed by me and another friend, by the time we made it weforget to track commits and code implementations by GitHub. So, we thought would be nice to cite in the 'README'.
+The project was developed by me and another friend, by the time we made it we forget to track commits and code implementations by GitHub. So, we thought would be nice to cite in the 'README'.
 
 - [Matheus Rauen C. L.](https://github.com/m-rauen)
 - [Victor Hugo Tagliapietra](https://github.com/vhpietra)
