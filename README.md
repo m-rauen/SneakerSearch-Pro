@@ -1,6 +1,6 @@
 # SneakerSearch-Pro
 
-### :dart: Information
+### :information_source: Information
 
 ---
 
